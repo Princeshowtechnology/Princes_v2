@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Prince.com" resolutions="1x" timestamp="1567950968944">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Prince.com" resolutions="1x" timestamp="1567954965785">
   <folder name="css">
     <file name="site_global.css" crc="392153075"/>
-    <file name="index.css" crc="183013052" ref="index"/>
-    <file name="nomq_index.css" crc="528470437" ref="index"/>
+    <file name="index.css" crc="15817013" ref="index"/>
+    <file name="nomq_index.css" crc="335035357" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="home-bg.jpg" crc="3970158588" seo="true" mt="1548055146000"/>
@@ -316,7 +316,7 @@
     <file name="1c-crop-u3412.jpg" crc="3809780402" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_3832-crop-u3475.jpg" crc="4105937079" seo="true" ref="index">
+    <file name="img_3832-crop-u3475.jpg" crc="247127193" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="22.jpg" crc="3914016155" seo="true" ref="index">
@@ -990,7 +990,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u2007-43.png" crc="405094048" ref="index"/>
-    <file name="1c-crop-u34123.jpg" crc="483439929" seo="true" ref="index">
+    <file name="1c-crop-u34123.jpg" crc="288293162" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_3832-crop-u34753.jpg" crc="34565491" seo="true" ref="index">
@@ -1295,5 +1295,5 @@
     </file>
     <file name="u5864-43.png" crc="4070991127" ref="index"/>
   </folder>
-  <file name="index.html" crc="4240233456" seo="true" mt="1567940946455" redirect="true"/>
+  <file name="index.html" crc="3797372005" seo="true" mt="1567954866214" redirect="true"/>
 </manifest>
